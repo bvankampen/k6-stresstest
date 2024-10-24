@@ -1,0 +1,7 @@
+export RATE=100
+export VUS=100
+export KUBECONFIG=$HOME/.kube/rke2.yaml
+export CONTEXT=rke2.suse
+export POD_COUNT=100
+export CONFIG_MAP_COUNT=1000
+export SECRET_COUNT=1000
